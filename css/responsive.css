@@ -1,12 +1,12 @@
-@media screen and (max-width: 1152px) {
-  #restaurants-list li {
-    width: 33%;
-  }
-}
 
-@media screen and (max-width: 759px) {
+@media screen and (max-width: 745px) {
+  
   #restaurants-list li {
     width: 80%;
-    
+  }
+}
+@media screen and (max-width: 991px) {
+  #restaurants-list li {
+    width: 33%;
   }
 }
