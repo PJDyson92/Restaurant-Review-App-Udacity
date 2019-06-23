@@ -10,5 +10,5 @@ In this project, a static webpage that lacks accessibility is given to be conver
 3. [Python Download](https://www.python.org/downloads/)
 4. Now you will have to redirect Command Prompt to where the folder for Restaurant Review is kept in Windows Explorer. To do this simply type `cd ` with the following folder location for Restaurant Review
 5. Now run the server by typing `python -m http.server`
-6. Finally open your internet browser and in the URL put in "localhost:8000"
+6. Finally open your internet browser and in the URL put in " http://localhost:8000"
 7. The App should now be running.
